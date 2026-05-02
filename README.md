@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/13254473-4b0b-4cbe-8ac5-cb98619b4d8d
+**URL**:bitesaver123.vercel.app
 
 ## How can I edit this code?
 
@@ -35,7 +35,7 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
+final project: bitesaver123.vercel.app
 **Edit a file directly in GitHub**
 
 - Navigate to the desired file(s).
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/13254473-4b0b-4cbe-8ac5-cb98619b4d8d) and click on Share -> Publish.
+Simply open bitesaver123.vercel.app and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
